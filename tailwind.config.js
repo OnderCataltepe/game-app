@@ -5,13 +5,18 @@ module.exports = {
   theme: {
     extend: {
       keyframes: {
-        rToL: {
-          from: { right: '-30px' },
-          to: { right: '0px' }
+        lToR: {
+          from: { left: '-300px' },
+          to: { left: '0px' }
         }
       },
       animation: {
-        iconText3: 'rToL 0.5s linear'
+        leftToRight: 'lToR 0.3s linear'
+      },
+      fontFamily: {
+        lato: ['Merriweather Sans', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
+        prompt: ['Prompt', 'sans-serif']
       }
     }
   },
