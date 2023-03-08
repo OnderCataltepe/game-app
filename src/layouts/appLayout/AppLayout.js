@@ -5,7 +5,7 @@ const AppLayout = () => {
   return (
     <div className="flex min-h-screen w-full flex-col justify-between">
       <Header />
-      <main className="w-full">
+      <main className="w-full dark:bg-black">
         <Outlet />
       </main>
       <Footer />
