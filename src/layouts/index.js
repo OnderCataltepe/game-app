@@ -1,3 +1,3 @@
 import AppLayout from './appLayout/AppLayout';
-
-export { AppLayout };
+import CategoryLayout from './pageLayouts/CategoryLayout';
+export { AppLayout, CategoryLayout };

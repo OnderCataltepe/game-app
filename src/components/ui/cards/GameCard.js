@@ -17,7 +17,6 @@ const GameCard = ({ item }) => {
           </p>
         </div>
         <Link
-          state={{ id: item.id }}
           to={`/game/${item.slug}`}
           className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-lg bg-black bg-opacity-75 p-2 text-center font-semibold text-white hover:text-red-700 hover:underline md:text-xl"
         >

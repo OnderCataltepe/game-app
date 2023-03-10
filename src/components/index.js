@@ -12,7 +12,8 @@ import {
   Loading,
   CategoryCard,
   GameCard,
-  LinkButton
+  LinkButton,
+  ErrorMessage
 } from './ui';
 export {
   Header,
@@ -27,5 +28,6 @@ export {
   MobilMenuItem,
   CategoryCard,
   GameCard,
-  LinkButton
+  LinkButton,
+  ErrorMessage
 };

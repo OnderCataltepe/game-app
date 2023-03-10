@@ -7,6 +7,7 @@ import Loading from './loading/Loading';
 import GameCard from './cards/GameCard';
 import CategoryCard from './cards/CategoryCard';
 import LinkButton from './buttons/linkButton/LinkButton';
+import ErrorMessage from './messages/ErrorMessage';
 export {
   MyNavLink,
   ThemeButton,
@@ -16,5 +17,6 @@ export {
   Loading,
   CategoryCard,
   GameCard,
-  LinkButton
+  LinkButton,
+  ErrorMessage
 };

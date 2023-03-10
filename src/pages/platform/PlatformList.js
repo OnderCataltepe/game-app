@@ -1,27 +1,32 @@
-import { useLocation } from 'react-router-dom';
-import { useGetDetailsQuery, useGetPlatformListQuery } from 'redux/apiSlice';
-import { PageTitle, Loading, GameCard } from 'components';
+import { useParams } from 'react-router-dom';
+import { useGetDetailsQuery, useGetPlatformListQuery, useGetListQuery } from 'redux/apiSlice';
+import { PageTitle, Loading, GameCard, ErrorMessage } from 'components';
 import parse from 'html-react-parser';
 
 const PlatformList = () => {
-  const location = useLocation();
-  const { state } = location;
+  const { platformId } = useParams();
+  const { data: list } = useGetListQuery('platforms');
+
+  const fetchId = list && list.results.find((item) => item.slug === platformId).id;
 
   const { data, isError, isLoading, error } = useGetPlatformListQuery({
     url: 'games',
-    id: state.id,
+    id: fetchId,
     page: '1'
   });
-  console.log(data);
-  console.log(state.id);
+
   const {
     data: dataDetails,
     isError: isDetailsError,
     error: detailsError,
     isLoading: isDetailsLoading
-  } = useGetDetailsQuery(`platforms/${state.id}`);
+  } = useGetDetailsQuery(`platforms/${fetchId}`);
   if (isLoading || isDetailsLoading) {
     return <Loading />;
+  }
+  if (isError) {
+    console.log(error);
+    return <ErrorMessage message={error.data} />;
   }
   return (
     <div className="flex w-full flex-col">

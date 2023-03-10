@@ -16,7 +16,8 @@ const routes = [
       },
       {
         path: '/genres/:genreId',
-        element: <GenreList />
+        element: <GenreList />,
+        errorElement: <ErrorPage />
       },
       {
         path: '/platforms',

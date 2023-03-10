@@ -1,27 +1,31 @@
-import { useLocation } from 'react-router-dom';
-import { useGetGenreListQuery, useGetDetailsQuery } from 'redux/apiSlice';
-import { PageTitle, Loading, GameCard } from 'components';
+import { useParams } from 'react-router-dom';
+import { useGetGenreListQuery, useGetDetailsQuery, useGetListQuery } from 'redux/apiSlice';
+import { PageTitle, Loading, GameCard, ErrorMessage } from 'components';
 import parse from 'html-react-parser';
 
 const GenreList = () => {
-  const location = useLocation();
-  const { state } = location;
+  const { genreId } = useParams();
+  const { data: list } = useGetListQuery('genres');
+  const fetchId = list && list.results.find((item) => item.slug === genreId).id;
 
   const { data, isError, isLoading, error } = useGetGenreListQuery({
     url: 'games',
-    id: state.id,
+    id: fetchId,
     page: '1'
   });
-  console.log(data);
-  console.log(state.id);
+
   const {
     data: dataDetails,
     isError: isDetailsError,
     error: detailsError,
     isLoading: isDetailsLoading
-  } = useGetDetailsQuery(`genres/${state.id}`);
+  } = useGetDetailsQuery(`genres/${fetchId}`);
   if (isLoading || isDetailsLoading) {
     return <Loading />;
+  }
+  if (isError) {
+    console.log(error);
+    return <ErrorMessage message={error.data} />;
   }
   return (
     <div className="flex w-full flex-col">
