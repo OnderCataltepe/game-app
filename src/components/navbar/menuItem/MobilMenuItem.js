@@ -2,13 +2,13 @@ import { MyNavLink } from 'components';
 import { AiOutlinePlus, AiOutlineMinus } from 'react-icons/ai';
 import { useState } from 'react';
 
-const MobilMenuItem = ({ item }) => {
+const MobilMenuItem = ({ item, setOpenMenu }) => {
   const [openSub, setOpenSub] = useState(false);
 
   return (
     <>
       <div className="flex items-center text-2xl">
-        <MyNavLink text={item.title} path={item.path} />
+        <MyNavLink onClick={() => setOpenMenu(false)} text={item.title} path={item.path} />
         {item.children.length > 0 &&
           (openSub ? (
             <AiOutlineMinus
@@ -26,7 +26,11 @@ const MobilMenuItem = ({ item }) => {
         <ul className="flex flex-col items-start py-2 pl-4">
           {item.children.map((subItem, index) => (
             <li key={index} className="text-xl">
-              <MyNavLink text={subItem.title} path={subItem.path} />
+              <MyNavLink
+                onClick={() => setOpenMenu(false)}
+                text={subItem.title}
+                path={`${item.path}/${subItem.path}`}
+              />
             </li>
           ))}
         </ul>

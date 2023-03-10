@@ -14,7 +14,7 @@ const MobilNav = ({ data }) => {
             <ul className="mb-2 flex w-full flex-col items-start bg-inherit">
               {data.map((item, index) => (
                 <li key={index} className=" bg-inherit py-2 ">
-                  <MobilMenuItem item={item} />
+                  <MobilMenuItem item={item} setOpenMenu={setOpenMenu} />
                 </li>
               ))}
             </ul>
