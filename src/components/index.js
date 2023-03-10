@@ -10,7 +10,9 @@ import {
   HamburgerButton,
   PageTitle,
   Loading,
-  CategoryCard
+  CategoryCard,
+  GameCard,
+  LinkButton
 } from './ui';
 export {
   Header,
@@ -23,5 +25,7 @@ export {
   HamburgerButton,
   Loading,
   MobilMenuItem,
-  CategoryCard
+  CategoryCard,
+  GameCard,
+  LinkButton
 };

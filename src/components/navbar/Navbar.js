@@ -4,12 +4,14 @@ import { useGetListQuery } from 'redux/apiSlice';
 
 const Navbar = () => {
   const { data: genreData } = useGetListQuery('genres');
-  const { data: platformData } = useGetListQuery('platforms/lists/parents');
+  const { data: platformData } = useGetListQuery('platforms');
 
   const genreChildren =
-    genreData && genreData.results.map((item) => ({ title: item.name, path: item.slug }));
+    genreData &&
+    genreData.results.map((item) => ({ title: item.name, path: item.slug, id: item.id }));
   const platformChildren =
-    platformData && platformData.results.map((item) => ({ title: item.name, path: item.slug }));
+    platformData &&
+    platformData.results.map((item) => ({ title: item.name, path: item.slug, id: item.id }));
   const navData = [
     { title: 'Home', path: '/', children: [] },
     {

@@ -1,5 +1,4 @@
 import { PageTitle } from 'components';
-
 const Home = () => {
   return (
     <div className="flex w-full flex-col">

@@ -1,5 +1,5 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import { Home, ErrorPage, Genres, Platforms } from 'pages';
+import { Home, ErrorPage, Genres, Platforms, GenreList, PlatformList } from 'pages';
 import { AppLayout } from 'layouts';
 const routes = [
   {
@@ -15,8 +15,16 @@ const routes = [
         element: <Genres />
       },
       {
+        path: '/genres/:genreId',
+        element: <GenreList />
+      },
+      {
         path: '/platforms',
         element: <Platforms />
+      },
+      {
+        path: '/platforms/:platformId',
+        element: <PlatformList />
       },
       {
         path: '*',

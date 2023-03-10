@@ -1,4 +1,4 @@
-import { logo, logoPng } from 'assets';
+import { logo } from 'assets';
 
 const Logo = () => {
   return (

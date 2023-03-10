@@ -3,7 +3,7 @@ import { useGetListQuery } from 'redux/apiSlice';
 import { Loading } from 'components';
 import { platformsImg } from 'assets';
 const Platforms = () => {
-  const { data, isLoading, isError, error } = useGetListQuery('platforms/lists/parents');
+  const { data, isLoading, isError, error } = useGetListQuery('platforms');
   if (isLoading) {
     return <Loading />;
   }

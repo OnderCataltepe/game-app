@@ -10,8 +10,30 @@ export const gameApi = createApi({
   endpoints: (builder) => ({
     getList: builder.query({
       query: (url) => `${url}?key=${API_KEY}`
+    }),
+    getGenreList: builder.query({
+      query: ({ url, id, page }) => ({
+        url: url,
+        method: 'GET',
+        params: { page: page, genres: id, key: API_KEY }
+      })
+    }),
+    getPlatformList: builder.query({
+      query: ({ url, id, page }) => ({
+        url: url,
+        method: 'GET',
+        params: { page: page, platforms: id, key: API_KEY }
+      })
+    }),
+    getDetails: builder.query({
+      query: (url) => `${url}?key=${API_KEY}`
     })
   })
 });
 
-export const { useGetListQuery } = gameApi;
+export const {
+  useGetListQuery,
+  useGetGenreListQuery,
+  useGetPlatformListQuery,
+  useGetDetailsQuery
+} = gameApi;

@@ -3,7 +3,6 @@ import { useGetListQuery } from 'redux/apiSlice';
 import { genresImg } from 'assets';
 const Genres = () => {
   const { data, isError, isLoading, error } = useGetListQuery('genres');
-
   if (isLoading) {
     return <Loading />;
   }
