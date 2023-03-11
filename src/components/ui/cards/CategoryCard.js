@@ -8,7 +8,7 @@ const CategoryCard = ({ item, type }) => {
         className="aspect-video w-full grayscale group-hover:grayscale-0"
       />
       <Link
-        to={`/${type}/${item.slug}`}
+        to={`/${type}/${item.slug}?page=1`}
         className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 cursor-pointer rounded-lg bg-black bg-opacity-75 p-2 text-center font-semibold text-white hover:text-red-700 md:text-xl"
       >
         {item.name}

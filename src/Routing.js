@@ -1,6 +1,7 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import { Home, ErrorPage, Genres, Platforms, GenreList, PlatformList } from 'pages';
+import { Home, ErrorPage, Genres, Platforms, GenreList, PlatformList, SearchResults } from 'pages';
 import { AppLayout } from 'layouts';
+
 const routes = [
   {
     path: '/',
@@ -26,6 +27,10 @@ const routes = [
       {
         path: '/platforms/:platformId',
         element: <PlatformList />
+      },
+      {
+        path: '/search',
+        element: <SearchResults />
       },
       {
         path: '*',

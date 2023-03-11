@@ -29,7 +29,7 @@ const MobilMenuItem = ({ item, setOpenMenu }) => {
               <MyNavLink
                 onClick={() => setOpenMenu(false)}
                 text={subItem.title}
-                path={`${item.path}/${subItem.path}`}
+                path={`${item.path}/${subItem.path}?page=1`}
               />
             </li>
           ))}

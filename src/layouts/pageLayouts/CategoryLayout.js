@@ -1,7 +1,6 @@
-import { PageTitle, CategoryCard } from 'components';
+import { PageTitle, CategoryCard, Loading, ErrorMessage } from 'components';
 import { useGetListQuery } from 'redux/apiSlice';
-import { Loading, ErrorMessage } from 'components';
-import parse from 'html-react-parser';
+
 const CategoryLayout = ({ type, bgImage, title }) => {
   const { data, isLoading, isError, error } = useGetListQuery(type);
   if (isLoading) {

@@ -1,4 +1,4 @@
-import { HamburgerButton, ThemeButton, MobilMenuItem } from 'components';
+import { HamburgerButton, ThemeButton, MobilMenuItem, SearchForm } from 'components';
 import { useState } from 'react';
 const MobilNav = ({ data }) => {
   const [openMenu, setOpenMenu] = useState(false);
@@ -19,6 +19,7 @@ const MobilNav = ({ data }) => {
               ))}
             </ul>
             <ThemeButton />
+            <SearchForm closeHandler={() => setOpenMenu(false)} />
           </div>
         </div>
       )}

@@ -8,6 +8,10 @@ import GameCard from './cards/GameCard';
 import CategoryCard from './cards/CategoryCard';
 import LinkButton from './buttons/linkButton/LinkButton';
 import ErrorMessage from './messages/ErrorMessage';
+import Paginate from './paginate/Paginate';
+import SearchForm from './forms/SearchForm';
+import ModalContainer from './modals/ModalContainer';
+import SearchModal from './modals/SearchModal';
 export {
   MyNavLink,
   ThemeButton,
@@ -18,5 +22,9 @@ export {
   CategoryCard,
   GameCard,
   LinkButton,
-  ErrorMessage
+  ErrorMessage,
+  Paginate,
+  SearchForm,
+  ModalContainer,
+  SearchModal
 };

@@ -13,7 +13,7 @@
   "plugins": ["react", "json-format"],
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "camelcase": "error",
+    "camelcase": "off",
     "spaced-comment": [
       "error",
       "always",

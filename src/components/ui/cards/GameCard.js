@@ -37,21 +37,23 @@ const GameCard = ({ item }) => {
         <div className="flex items-center py-4">
           <p className="min-w-[80px] font-semibold dark:text-white">Genres:</p>
           <div className="flex flex-wrap">
-            {item.genres.map((item) => (
-              <LinkButton key={item.id} path={`/genres/${item.slug}`} item={item} />
-            ))}
+            {item.genres &&
+              item.genres.map((item) => (
+                <LinkButton key={item.id} path={`/genres/${item.slug}?page=1`} item={item} />
+              ))}
           </div>
         </div>
         <div className="flex items-start py-4">
           <p className="min-w-[80px] font-semibold dark:text-white">Platforms:</p>
           <div className="flex flex-wrap">
-            {item.platforms.map((item) => (
-              <LinkButton
-                key={item.platform.id}
-                path={`/platforms/${item.platform.slug}`}
-                item={item.platform}
-              />
-            ))}
+            {item.platforms &&
+              item.platforms.map((item) => (
+                <LinkButton
+                  key={item.platform.id}
+                  path={`/platforms/${item.platform.slug}?page=1`}
+                  item={item.platform}
+                />
+              ))}
           </div>
         </div>
       </div>

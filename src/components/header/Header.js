@@ -1,8 +1,7 @@
 import Logo from 'components/logo/Logo';
 import Navbar from 'components/navbar/Navbar';
 import { useEffect } from 'react';
-import { IconButton, ThemeButton } from 'components';
-import { AiOutlineSearch } from 'react-icons/ai';
+import { ThemeButton, SearchModal } from 'components';
 
 const Header = () => {
   let timeout;
@@ -33,7 +32,7 @@ const Header = () => {
         <Logo />
         <Navbar />
         <div className="hidden items-center text-black dark:text-gray-200 md:flex">
-          <IconButton icon={<AiOutlineSearch />} />
+          <SearchModal />
           <ThemeButton />
         </div>
       </div>

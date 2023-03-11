@@ -4,4 +4,5 @@ import Genres from './genres/Genres';
 import Platforms from './platform/Platforms';
 import GenreList from './genres/GenreList';
 import PlatformList from './platform/PlatformList';
-export { Home, ErrorPage, Genres, GenreList, Platforms, PlatformList };
+import SearchResults from './searchResults/SearchResults';
+export { Home, ErrorPage, Genres, GenreList, Platforms, PlatformList, SearchResults };

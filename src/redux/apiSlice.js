@@ -27,6 +27,13 @@ export const gameApi = createApi({
     }),
     getDetails: builder.query({
       query: (url) => `${url}?key=${API_KEY}`
+    }),
+    getSearch: builder.query({
+      query: ({ searchQ, page }) => ({
+        url: 'games',
+        method: 'GET',
+        params: { page: page, search: searchQ, key: API_KEY }
+      })
     })
   })
 });
@@ -35,5 +42,6 @@ export const {
   useGetListQuery,
   useGetGenreListQuery,
   useGetPlatformListQuery,
-  useGetDetailsQuery
+  useGetDetailsQuery,
+  useGetSearchQuery
 } = gameApi;

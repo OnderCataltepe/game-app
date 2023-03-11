@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Prompt:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.dark {
+  .stickyAnim {
+    @apply bg-black;
+  }
+  #header:has(li):has(ul:hover) {
+    background-color: black;
+  }
+}
+
+.light {
+  .stickyAnim {
+    @apply bg-white;
+  }
+  #header:has(li):has(ul:hover) {
+    background-color: white;
+  }
+}
+
+.animateLogo {
+  height: 80px !important;
+  padding: 12px 0px !important;
+}
+body:has(.modalOpened) {
+  overflow-y: hidden;
+}
+@media screen and (max-width: 768px) {
+  .animateLogo {
+    height: 48px !important;
+    padding: 8px 0px !important;
+  }
+  .light {
+    #header:has(#mobilMenu) {
+      background-color: white;
+    }
+  }
+
+  .dark {
+    #header:has(#mobilMenu) {
+      background-color: black;
+    }
+  }
+  body:has(#hamburger:checked) {
+    overflow-y: hidden;
+  }
+}

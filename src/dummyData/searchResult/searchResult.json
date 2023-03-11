@@ -1,0 +1,2144 @@
+{
+  "count": 56,
+  "next": null,
+  "previous": "https://api.rawg.io/api/games?key=5ef35efd15444b7bb1cc23247e9f3297&page=2&search=aa",
+  "results": [
+    {
+      "slug": "aa-game-final-frontier-final-build",
+      "name": "AA Game Final Frontier (Final Build)",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 171,
+            "name": "Web",
+            "slug": "web"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2020-04-24",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/910/9100dada87d21c9897f2d7118f05e6d4.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 24,
+      "updated": "2020-04-27T04:51:49",
+      "id": 436923,
+      "score": "6.472929",
+      "clip": null,
+      "tags": [
+        {
+          "id": 1411,
+          "name": "build",
+          "slug": "build",
+          "language": "eng",
+          "games_count": 3518,
+          "image_background": "https://media.rawg.io/media/screenshots/42c/42c6f4f40410a311e19f09a7c5b8a75f.jpg"
+        },
+        {
+          "id": 4881,
+          "name": "bugs",
+          "slug": "bugs",
+          "language": "eng",
+          "games_count": 2129,
+          "image_background": "https://media.rawg.io/media/screenshots/69a/69ab832f7b1f425f4c72586594ae6e81.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/910/9100dada87d21c9897f2d7118f05e6d4.jpg"
+        },
+        {
+          "id": 2366410,
+          "image": "https://media.rawg.io/media/screenshots/910/9100dada87d21c9897f2d7118f05e6d4.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 14,
+            "name": "Web",
+            "slug": "web"
+          }
+        }
+      ],
+      "genres": []
+    },
+    {
+      "slug": "batman-aa-goty",
+      "name": "Batman: Arkham Asylum Game of the Year Edition",
+      "playtime": 8,
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 14,
+            "name": "Xbox 360",
+            "slug": "xbox360"
+          }
+        },
+        {
+          "platform": {
+            "id": 16,
+            "name": "PlayStation 3",
+            "slug": "playstation3"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 1,
+            "name": "Steam",
+            "slug": "steam"
+          }
+        },
+        {
+          "store": {
+            "id": 7,
+            "name": "Xbox 360 Store",
+            "slug": "xbox360"
+          }
+        },
+        {
+          "store": {
+            "id": 11,
+            "name": "Epic Games",
+            "slug": "epic-games"
+          }
+        }
+      ],
+      "released": "2010-03-26",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/fd8/fd882c8267a44621a0de6f9cec77ae90.jpg",
+      "rating": 4.38,
+      "rating_top": 5,
+      "ratings": [
+        {
+          "id": 5,
+          "title": "exceptional",
+          "count": 798,
+          "percent": 54.62
+        },
+        {
+          "id": 4,
+          "title": "recommended",
+          "count": 529,
+          "percent": 36.21
+        },
+        {
+          "id": 3,
+          "title": "meh",
+          "count": 82,
+          "percent": 5.61
+        },
+        {
+          "id": 1,
+          "title": "skip",
+          "count": 52,
+          "percent": 3.56
+        }
+      ],
+      "ratings_count": 1458,
+      "reviews_text_count": 2,
+      "added": 7229,
+      "added_by_status": {
+        "yet": 285,
+        "owned": 5288,
+        "beaten": 1377,
+        "toplay": 92,
+        "dropped": 153,
+        "playing": 34
+      },
+      "metacritic": 91,
+      "suggestions_count": 509,
+      "updated": "2023-03-07T06:10:14",
+      "id": 17572,
+      "score": "6.2425876",
+      "clip": null,
+      "tags": [
+        {
+          "id": 31,
+          "name": "Singleplayer",
+          "slug": "singleplayer",
+          "language": "eng",
+          "games_count": 208470,
+          "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+        },
+        {
+          "id": 42396,
+          "name": "Для одного игрока",
+          "slug": "dlia-odnogo-igroka",
+          "language": "rus",
+          "games_count": 32057,
+          "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+        },
+        {
+          "id": 42417,
+          "name": "Экшен",
+          "slug": "ekshen",
+          "language": "rus",
+          "games_count": 30840,
+          "image_background": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg"
+        },
+        {
+          "id": 42392,
+          "name": "Приключение",
+          "slug": "prikliuchenie",
+          "language": "rus",
+          "games_count": 28781,
+          "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+        },
+        {
+          "id": 40847,
+          "name": "Steam Achievements",
+          "slug": "steam-achievements",
+          "language": "eng",
+          "games_count": 29335,
+          "image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Atmospheric",
+          "slug": "atmospheric",
+          "language": "eng",
+          "games_count": 29223,
+          "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+        },
+        {
+          "id": 40849,
+          "name": "Steam Cloud",
+          "slug": "steam-cloud",
+          "language": "eng",
+          "games_count": 13487,
+          "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+        },
+        {
+          "id": 42400,
+          "name": "Атмосфера",
+          "slug": "atmosfera",
+          "language": "rus",
+          "games_count": 6103,
+          "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+        },
+        {
+          "id": 7808,
+          "name": "steam-trading-cards",
+          "slug": "steam-trading-cards",
+          "language": "eng",
+          "games_count": 7582,
+          "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+        },
+        {
+          "id": 42394,
+          "name": "Глубокий сюжет",
+          "slug": "glubokii-siuzhet",
+          "language": "rus",
+          "games_count": 8365,
+          "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+        },
+        {
+          "id": 118,
+          "name": "Story Rich",
+          "slug": "story-rich",
+          "language": "eng",
+          "games_count": 18028,
+          "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+        },
+        {
+          "id": 42442,
+          "name": "Открытый мир",
+          "slug": "otkrytyi-mir",
+          "language": "rus",
+          "games_count": 4208,
+          "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+        },
+        {
+          "id": 36,
+          "name": "Open World",
+          "slug": "open-world",
+          "language": "eng",
+          "games_count": 6203,
+          "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+        },
+        {
+          "id": 42435,
+          "name": "Шедевр",
+          "slug": "shedevr",
+          "language": "rus",
+          "games_count": 1059,
+          "image_background": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg"
+        },
+        {
+          "id": 149,
+          "name": "Third Person",
+          "slug": "third-person",
+          "language": "eng",
+          "games_count": 9228,
+          "image_background": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg"
+        },
+        {
+          "id": 42441,
+          "name": "От третьего лица",
+          "slug": "ot-tretego-litsa",
+          "language": "rus",
+          "games_count": 4547,
+          "image_background": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg"
+        },
+        {
+          "id": 40845,
+          "name": "Partial Controller Support",
+          "slug": "partial-controller-support",
+          "language": "eng",
+          "games_count": 9446,
+          "image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Horror",
+          "slug": "horror",
+          "language": "eng",
+          "games_count": 43707,
+          "image_background": "https://media.rawg.io/media/games/7a4/7a45e4cdc5b07f316d49cf147b083b27.jpg"
+        },
+        {
+          "id": 42465,
+          "name": "Головоломка",
+          "slug": "golovolomka",
+          "language": "rus",
+          "games_count": 10806,
+          "image_background": "https://media.rawg.io/media/screenshots/8f0/8f0b94922ad5e59968852649697b2643.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Stealth",
+          "slug": "stealth",
+          "language": "eng",
+          "games_count": 5748,
+          "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+        },
+        {
+          "id": 42439,
+          "name": "Стелс",
+          "slug": "stels",
+          "language": "rus",
+          "games_count": 1477,
+          "image_background": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg"
+        },
+        {
+          "id": 42416,
+          "name": "Контроллер",
+          "slug": "kontroller",
+          "language": "rus",
+          "games_count": 3484,
+          "image_background": "https://media.rawg.io/media/games/a5a/a5abaa1b5cc1567b026fa3aa9fbd828e.jpg"
+        },
+        {
+          "id": 115,
+          "name": "Controller",
+          "slug": "controller",
+          "language": "eng",
+          "games_count": 9204,
+          "image_background": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png"
+        },
+        {
+          "id": 69,
+          "name": "Action-Adventure",
+          "slug": "action-adventure",
+          "language": "eng",
+          "games_count": 13505,
+          "image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+        },
+        {
+          "id": 42490,
+          "name": "Приключенческий экшен",
+          "slug": "prikliuchencheskii-ekshen",
+          "language": "rus",
+          "games_count": 5324,
+          "image_background": "https://media.rawg.io/media/games/018/01857c5ff9579c48fa8bd76b4d83a946.jpg"
+        },
+        {
+          "id": 203,
+          "name": "Beat 'em up",
+          "slug": "beat-em-up",
+          "language": "eng",
+          "games_count": 2704,
+          "image_background": "https://media.rawg.io/media/games/fc8/fc838d98c9b944e6a15176eabf40bee8.jpg"
+        },
+        {
+          "id": 259,
+          "name": "Metroidvania",
+          "slug": "metroidvania",
+          "language": "eng",
+          "games_count": 4002,
+          "image_background": "https://media.rawg.io/media/games/fc8/fc838d98c9b944e6a15176eabf40bee8.jpg"
+        },
+        {
+          "id": 42462,
+          "name": "Метроидвания",
+          "slug": "metroidvaniia",
+          "language": "rus",
+          "games_count": 885,
+          "image_background": "https://media.rawg.io/media/games/b01/b01aa6b2d6d4f683203e9471a8b8d5b5.jpg"
+        },
+        {
+          "id": 42527,
+          "name": "Файтинг",
+          "slug": "faiting",
+          "language": "rus",
+          "games_count": 904,
+          "image_background": "https://media.rawg.io/media/screenshots/424/4246b028e70891609700f1566db8b8dd.jpg"
+        },
+        {
+          "id": 133,
+          "name": "3D Vision",
+          "slug": "3d-vision",
+          "language": "eng",
+          "games_count": 540,
+          "image_background": "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg"
+        },
+        {
+          "id": 142,
+          "name": "Detective",
+          "slug": "detective",
+          "language": "eng",
+          "games_count": 2640,
+          "image_background": "https://media.rawg.io/media/screenshots/332/3327c47e0abc76882fc96c434d2e06bd.jpg"
+        },
+        {
+          "id": 42526,
+          "name": "Детектив",
+          "slug": "detektiv",
+          "language": "rus",
+          "games_count": 1147,
+          "image_background": "https://media.rawg.io/media/games/90c/90caf1fcb836cad70013452f6f239008.jpg"
+        },
+        {
+          "id": 268,
+          "name": "Comic Book",
+          "slug": "comic-book",
+          "language": "eng",
+          "games_count": 797,
+          "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+        },
+        {
+          "id": 42525,
+          "name": "По комиксу",
+          "slug": "po-komiksu",
+          "language": "rus",
+          "games_count": 817,
+          "image_background": "https://media.rawg.io/media/games/106/10679840f87dba8f493612d9d542d566.jpeg"
+        },
+        {
+          "id": 234,
+          "name": "Superhero",
+          "slug": "superhero",
+          "language": "eng",
+          "games_count": 1255,
+          "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+        },
+        {
+          "id": 42524,
+          "name": "Супергерои",
+          "slug": "supergeroi",
+          "language": "rus",
+          "games_count": 237,
+          "image_background": "https://media.rawg.io/media/games/efd/efd6b2cb621c41a2b6580d8ac260b8ba.jpg"
+        },
+        {
+          "id": 328,
+          "name": "Batman",
+          "slug": "batman",
+          "language": "eng",
+          "games_count": 56,
+          "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+        },
+        {
+          "id": 42523,
+          "name": "Бэтмен",
+          "slug": "betmen",
+          "language": "rus",
+          "games_count": 17,
+          "image_background": "https://media.rawg.io/media/games/fd8/fd882c8267a44621a0de6f9cec77ae90.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 1461,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/games/fd8/fd882c8267a44621a0de6f9cec77ae90.jpg"
+        },
+        {
+          "id": 160522,
+          "image": "https://media.rawg.io/media/screenshots/85b/85bb2ed59cc85c21bfdc068012dfc5c8.jpg"
+        },
+        {
+          "id": 160523,
+          "image": "https://media.rawg.io/media/screenshots/05e/05ebf1dc9066bf43e9c45b31399e741d.jpg"
+        },
+        {
+          "id": 160524,
+          "image": "https://media.rawg.io/media/screenshots/ee2/ee2b4270a1eb48b0aa2ac3deb882ce9b.jpg"
+        },
+        {
+          "id": 160525,
+          "image": "https://media.rawg.io/media/screenshots/a43/a43dde8dcb6445387f429da88d50b703.jpg"
+        },
+        {
+          "id": 160526,
+          "image": "https://media.rawg.io/media/screenshots/803/803acffeb45da0d884582991f380c6bf.jpg"
+        },
+        {
+          "id": 160527,
+          "image": "https://media.rawg.io/media/screenshots/23e/23e14000ba6668b022633e3600c8c140.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 2,
+            "name": "PlayStation",
+            "slug": "playstation"
+          }
+        },
+        {
+          "platform": {
+            "id": 3,
+            "name": "Xbox",
+            "slug": "xbox"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 83,
+          "name": "Platformer",
+          "slug": "platformer"
+        },
+        {
+          "id": 3,
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "id": 4,
+          "name": "Action",
+          "slug": "action"
+        }
+      ]
+    },
+    {
+      "slug": "aa-casino-lucky-diamond-fruit-poker-vegas-slots-sl",
+      "name": "AA Casino Lucky Diamond Fruit Poker Vegas Slots - Slot Machine with Fun Prize Wheel and Blackjack",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 3,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 4,
+            "name": "App Store",
+            "slug": "apple-appstore"
+          }
+        }
+      ],
+      "released": "2014-01-11",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/acb/acb28bd3943a7ec674688bbdad3987ba.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 41,
+      "updated": "2019-10-22T14:01:56",
+      "id": 67284,
+      "score": "6.210644",
+      "clip": null,
+      "tags": [
+        {
+          "id": 844,
+          "name": "simulator",
+          "slug": "simulator",
+          "language": "eng",
+          "games_count": 5979,
+          "image_background": "https://media.rawg.io/media/screenshots/893/893c09c9a14fb9e97bea9775588a07fc_j56K2lh.jpg"
+        },
+        {
+          "id": 2590,
+          "name": "fun",
+          "slug": "fun",
+          "language": "eng",
+          "games_count": 23498,
+          "image_background": "https://media.rawg.io/media/screenshots/41d/41d61629335da0c673894fa4f113a6bb.jpg"
+        },
+        {
+          "id": 2654,
+          "name": "fruit",
+          "slug": "fruit",
+          "language": "eng",
+          "games_count": 1004,
+          "image_background": "https://media.rawg.io/media/screenshots/263/2636e1fab2ff4f574877aa79b1f21f36_G3tv2lq.jpg"
+        },
+        {
+          "id": 3719,
+          "name": "casino",
+          "slug": "casino",
+          "language": "eng",
+          "games_count": 1091,
+          "image_background": "https://media.rawg.io/media/screenshots/077/077d73563fe77c0cf19cc4a293c35e7c.jpg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 3,
+        "name": "Teen",
+        "slug": "teen",
+        "name_en": "Teen",
+        "name_ru": "С 13 лет"
+      },
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/acb/acb28bd3943a7ec674688bbdad3987ba.jpg"
+        },
+        {
+          "id": 878105,
+          "image": "https://media.rawg.io/media/screenshots/4fe/4fed3877fe3bc23949eb078d5229fd15.jpg"
+        },
+        {
+          "id": 878108,
+          "image": "https://media.rawg.io/media/screenshots/c39/c39b7b3cceece8396bcbdf788503995b.jpg"
+        },
+        {
+          "id": 878111,
+          "image": "https://media.rawg.io/media/screenshots/8eb/8eb0137c156a0230f82e65836b3d076b.jpg"
+        },
+        {
+          "id": 878114,
+          "image": "https://media.rawg.io/media/screenshots/acb/acb28bd3943a7ec674688bbdad3987ba.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 17,
+          "name": "Card",
+          "slug": "card"
+        }
+      ]
+    },
+    {
+      "slug": "ultimate-aa",
+      "name": "Ultimate AA",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 21,
+            "name": "Android",
+            "slug": "android"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2018-04-08",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/dce/dceefffc55a5baf40e0d1c806f2304d7.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 26,
+      "updated": "2019-01-09T12:41:06",
+      "id": 162338,
+      "score": "6.028469",
+      "clip": null,
+      "tags": [
+        {
+          "id": 1063,
+          "name": "html",
+          "slug": "html",
+          "language": "eng",
+          "games_count": 1327,
+          "image_background": "https://media.rawg.io/media/screenshots/60d/60d610e0e512963083c6d5b6581969ac.jpg"
+        },
+        {
+          "id": 1080,
+          "name": "GitHub",
+          "slug": "github",
+          "language": "eng",
+          "games_count": 1121,
+          "image_background": "https://media.rawg.io/media/screenshots/72b/72b4ac2a0b38a109cdba7585930d19a7.jpg"
+        },
+        {
+          "id": 1329,
+          "name": "phone",
+          "slug": "phone",
+          "language": "eng",
+          "games_count": 2716,
+          "image_background": "https://media.rawg.io/media/screenshots/e14/e143ad42ced586b2ee3ff0537d078d52.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/dce/dceefffc55a5baf40e0d1c806f2304d7.jpg"
+        },
+        {
+          "id": 1214140,
+          "image": "https://media.rawg.io/media/screenshots/5c0/5c02838b5fde9fe736795d16ec2c2d5c.jpg"
+        },
+        {
+          "id": 1214141,
+          "image": "https://media.rawg.io/media/screenshots/5a8/5a8f741a44ef68445e350882043b6299.jpg"
+        },
+        {
+          "id": 1214142,
+          "image": "https://media.rawg.io/media/screenshots/d2e/d2e09d2d251efacaeb99ac511939aae4.jpg"
+        },
+        {
+          "id": 1214143,
+          "image": "https://media.rawg.io/media/screenshots/dce/dceefffc55a5baf40e0d1c806f2304d7.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 8,
+            "name": "Android",
+            "slug": "android"
+          }
+        }
+      ],
+      "genres": []
+    },
+    {
+      "slug": "christmas-aa",
+      "name": "Christmas AA",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 21,
+            "name": "Android",
+            "slug": "android"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2017-11-18",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/e5b/e5b3c69481e638b5a1986fedcf136da5.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 31,
+      "updated": "2019-01-09T12:41:06",
+      "id": 164821,
+      "score": "5.9654045",
+      "clip": null,
+      "tags": [
+        {
+          "id": 1485,
+          "name": "Christmas",
+          "slug": "christmas",
+          "language": "eng",
+          "games_count": 1734,
+          "image_background": "https://media.rawg.io/media/screenshots/b15/b15ec290eb47197f188de9cfa0a41612.jpg"
+        },
+        {
+          "id": 23732,
+          "name": "aa",
+          "slug": "aa",
+          "language": "eng",
+          "games_count": 6,
+          "image_background": "https://media.rawg.io/media/screenshots/238/2384a9513bb8730131debe392014b042.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/e5b/e5b3c69481e638b5a1986fedcf136da5.jpg"
+        },
+        {
+          "id": 1219108,
+          "image": "https://media.rawg.io/media/screenshots/ca5/ca50329f7f264dd1fa9061d4b1a090b2.jpg"
+        },
+        {
+          "id": 1219110,
+          "image": "https://media.rawg.io/media/screenshots/7c0/7c0b8d9c3db1685fd5792d2335d15996.jpg"
+        },
+        {
+          "id": 1219112,
+          "image": "https://media.rawg.io/media/screenshots/083/08394c1322d34c36d964d8a549b5d9e1.jpg"
+        },
+        {
+          "id": 1219114,
+          "image": "https://media.rawg.io/media/screenshots/e5b/e5b3c69481e638b5a1986fedcf136da5.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 8,
+            "name": "Android",
+            "slug": "android"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 7,
+          "name": "Puzzle",
+          "slug": "puzzle"
+        }
+      ]
+    },
+    {
+      "slug": "nabulsi-aa",
+      "name": "Nabulsi aa",
+      "playtime": 0,
+      "platforms": null,
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2015-08-02",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/1bc/1bce3a7ec6977db0c676c0629f8053f6.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 5,
+      "updated": "2019-01-09T12:41:06",
+      "id": 169177,
+      "score": "5.9654045",
+      "clip": null,
+      "tags": [],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/1bc/1bce3a7ec6977db0c676c0629f8053f6.jpg"
+        },
+        {
+          "id": 1230640,
+          "image": "https://media.rawg.io/media/screenshots/1bc/1bce3a7ec6977db0c676c0629f8053f6.jpg"
+        }
+      ],
+      "genres": []
+    },
+    {
+      "slug": "ancient-aa",
+      "name": "Ancient AA",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 5,
+            "name": "macOS",
+            "slug": "macos"
+          }
+        },
+        {
+          "platform": {
+            "id": 6,
+            "name": "Linux",
+            "slug": "linux"
+          }
+        },
+        {
+          "platform": {
+            "id": 171,
+            "name": "Web",
+            "slug": "web"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2021-05-15",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/180/1809e172d709eb5411296fb0683bf0fe.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 0,
+      "updated": "2021-05-17T07:32:39",
+      "id": 604877,
+      "score": "5.238388",
+      "clip": null,
+      "tags": [
+        {
+          "id": 131,
+          "name": "Fast-Paced",
+          "slug": "fast-paced",
+          "language": "eng",
+          "games_count": 6970,
+          "image_background": "https://media.rawg.io/media/games/8e6/8e699e91cf77c2060b6d515e2135b1b1.jpg"
+        },
+        {
+          "id": 1078,
+          "name": "speedrun",
+          "slug": "speedrun",
+          "language": "eng",
+          "games_count": 1337,
+          "image_background": "https://media.rawg.io/media/screenshots/f00/f00a685dd218ab4af77e9aaa70ea364a.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/180/1809e172d709eb5411296fb0683bf0fe.jpg"
+        },
+        {
+          "id": 2847766,
+          "image": "https://media.rawg.io/media/screenshots/180/1809e172d709eb5411296fb0683bf0fe.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 5,
+            "name": "Apple Macintosh",
+            "slug": "mac"
+          }
+        },
+        {
+          "platform": {
+            "id": 6,
+            "name": "Linux",
+            "slug": "linux"
+          }
+        },
+        {
+          "platform": {
+            "id": 14,
+            "name": "Web",
+            "slug": "web"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 83,
+          "name": "Platformer",
+          "slug": "platformer"
+        }
+      ]
+    },
+    {
+      "slug": "yag-aa",
+      "name": "YAG AA",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 21,
+            "name": "Android",
+            "slug": "android"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2021-08-01",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/b7d/b7d0175af2a269a1afe6dfa8efdb4fbd.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 0,
+      "updated": "2021-08-02T04:34:44",
+      "id": 643638,
+      "score": "5.238388",
+      "clip": null,
+      "tags": [
+        {
+          "id": 23732,
+          "name": "aa",
+          "slug": "aa",
+          "language": "eng",
+          "games_count": 6,
+          "image_background": "https://media.rawg.io/media/screenshots/238/2384a9513bb8730131debe392014b042.jpg"
+        },
+        {
+          "id": 68481,
+          "name": "yag",
+          "slug": "yag",
+          "language": "eng",
+          "games_count": 0,
+          "image_background": null
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/b7d/b7d0175af2a269a1afe6dfa8efdb4fbd.jpg"
+        },
+        {
+          "id": 2960766,
+          "image": "https://media.rawg.io/media/screenshots/4f8/4f8b1fbb7b663362799f364f6ac95669.jpg"
+        },
+        {
+          "id": 2960767,
+          "image": "https://media.rawg.io/media/screenshots/a0b/a0bc0bb40ef6afd44a14e462093bf670.jpg"
+        },
+        {
+          "id": 2960768,
+          "image": "https://media.rawg.io/media/screenshots/842/842ab4ba68b590028ebdc1a6db86263d.jpg"
+        },
+        {
+          "id": 2960769,
+          "image": "https://media.rawg.io/media/screenshots/b7d/b7d0175af2a269a1afe6dfa8efdb4fbd.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 8,
+            "name": "Android",
+            "slug": "android"
+          }
+        }
+      ],
+      "genres": []
+    },
+    {
+      "slug": "color-arrow-vs-twisty-wheel-crazy-aa-game",
+      "name": "Color Arrow VS Twisty Wheel: Crazy AA game",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 3,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 4,
+            "name": "App Store",
+            "slug": "apple-appstore"
+          }
+        }
+      ],
+      "released": "2017-08-25",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/5f8/5f894c0e53ff03d044e8a7c829c93975.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 57,
+      "updated": "2019-07-29T10:41:36",
+      "id": 66262,
+      "score": "4.1650505",
+      "clip": null,
+      "tags": [
+        {
+          "id": 136,
+          "name": "Music",
+          "slug": "music",
+          "language": "eng",
+          "games_count": 15500,
+          "image_background": "https://media.rawg.io/media/screenshots/560/560f7bd45d2f8ce3deb42c97fd1d1f49.jpg"
+        },
+        {
+          "id": 604,
+          "name": "simple",
+          "slug": "simple",
+          "language": "eng",
+          "games_count": 5400,
+          "image_background": "https://media.rawg.io/media/screenshots/f2e/f2e59a790f186dbeb0a0085ef4558385.jpg"
+        },
+        {
+          "id": 1350,
+          "name": "crazy",
+          "slug": "crazy",
+          "language": "eng",
+          "games_count": 1525,
+          "image_background": "https://media.rawg.io/media/screenshots/e01/e01858fe13e9dc192b9ccb0d234a8789.jpg"
+        },
+        {
+          "id": 1994,
+          "name": "tap",
+          "slug": "tap",
+          "language": "eng",
+          "games_count": 6825,
+          "image_background": "https://media.rawg.io/media/screenshots/9eb/9ebdddcc5332d4c03f2a6bf1d4f72792.jpg"
+        },
+        {
+          "id": 3117,
+          "name": "shoot",
+          "slug": "shoot",
+          "language": "eng",
+          "games_count": 6554,
+          "image_background": "https://media.rawg.io/media/screenshots/e94/e94ea9f01a10492acaaf6b194a976fe5.jpg"
+        },
+        {
+          "id": 3189,
+          "name": "color",
+          "slug": "color",
+          "language": "eng",
+          "games_count": 4951,
+          "image_background": "https://media.rawg.io/media/screenshots/51d/51dd944987e4efb74b4bfd9cf0999d40.jpg"
+        },
+        {
+          "id": 6026,
+          "name": "balls",
+          "slug": "balls",
+          "language": "eng",
+          "games_count": 2363,
+          "image_background": "https://media.rawg.io/media/screenshots/cc8/cc8d00f3be8a9b00846006245fad1275.jpg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 2,
+        "name": "Everyone 10+",
+        "slug": "everyone-10-plus",
+        "name_en": "Everyone 10+",
+        "name_ru": "С 10 лет"
+      },
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/5f8/5f894c0e53ff03d044e8a7c829c93975.jpg"
+        },
+        {
+          "id": 873495,
+          "image": "https://media.rawg.io/media/screenshots/029/029ed3173d34a87ef3b8bd1a96c9bc36.jpg"
+        },
+        {
+          "id": 873497,
+          "image": "https://media.rawg.io/media/screenshots/3d4/3d4a04122e73844ffe300c6e23144a2b.jpg"
+        },
+        {
+          "id": 873499,
+          "image": "https://media.rawg.io/media/screenshots/60d/60d7539733a7404b94f25f1741614e3c.jpg"
+        },
+        {
+          "id": 873501,
+          "image": "https://media.rawg.io/media/screenshots/b7e/b7eaa1c2bd913de3d1c2e5400257940b_0ELcYcH.jpg"
+        },
+        {
+          "id": 873503,
+          "image": "https://media.rawg.io/media/screenshots/5f8/5f894c0e53ff03d044e8a7c829c93975.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 4,
+          "name": "Action",
+          "slug": "action"
+        }
+      ]
+    },
+    {
+      "slug": "up919108aa-game",
+      "name": "UP919108/Aa Game",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2019-09-26",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/59f/59f8c216b83fb8771857747e23cfa195.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 7,
+      "updated": "2019-09-27T04:46:42",
+      "id": 377219,
+      "score": "3.4656563",
+      "clip": null,
+      "tags": [
+        {
+          "id": 45,
+          "name": "2D",
+          "slug": "2d",
+          "language": "eng",
+          "games_count": 85731,
+          "image_background": "https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/59f/59f8c216b83fb8771857747e23cfa195.jpg"
+        },
+        {
+          "id": 2185436,
+          "image": "https://media.rawg.io/media/screenshots/59f/59f8c216b83fb8771857747e23cfa195.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        }
+      ],
+      "genres": []
+    },
+    {
+      "slug": "bb-aa-replica",
+      "name": "bb (aa replica)",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2019-07-02",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/69e/69e7c3c0e428f170ce9e7d134680b50d.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 4,
+      "updated": "2019-07-05T05:22:29",
+      "id": 339019,
+      "score": "1.8384247",
+      "clip": null,
+      "tags": [
+        {
+          "id": 45,
+          "name": "2D",
+          "slug": "2d",
+          "language": "eng",
+          "games_count": 85731,
+          "image_background": "https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg"
+        },
+        {
+          "id": 193,
+          "name": "Classic",
+          "slug": "classic",
+          "language": "eng",
+          "games_count": 1515,
+          "image_background": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg"
+        },
+        {
+          "id": 31,
+          "name": "Singleplayer",
+          "slug": "singleplayer",
+          "language": "eng",
+          "games_count": 94283,
+          "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+        },
+        {
+          "id": 23732,
+          "name": "aa",
+          "slug": "aa",
+          "language": "eng",
+          "games_count": 6,
+          "image_background": "https://media.rawg.io/media/screenshots/238/2384a9513bb8730131debe392014b042.jpg"
+        },
+        {
+          "id": 41943,
+          "name": "bb",
+          "slug": "bb",
+          "language": "eng",
+          "games_count": 2,
+          "image_background": "https://media.rawg.io/media/screenshots/cc3/cc3c2bf8030c6294a08d41dbc9fafdad.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/69e/69e7c3c0e428f170ce9e7d134680b50d.jpg"
+        },
+        {
+          "id": 1985379,
+          "image": "https://media.rawg.io/media/screenshots/69e/69e7c3c0e428f170ce9e7d134680b50d.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 7,
+          "name": "Puzzle",
+          "slug": "puzzle"
+        }
+      ]
+    },
+    {
+      "slug": "spin-pin-aa",
+      "name": "Spin Pin AA",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 3,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 4,
+            "name": "App Store",
+            "slug": "apple-appstore"
+          }
+        }
+      ],
+      "released": "2017-10-21",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/be6/be61f4940f0f918f285d0dc35a727b19_0vlqqUF.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 0,
+      "updated": "2021-11-29T03:41:45",
+      "id": 700750,
+      "score": "1.8384247",
+      "clip": null,
+      "tags": [
+        {
+          "id": 1994,
+          "name": "tap",
+          "slug": "tap",
+          "language": "eng",
+          "games_count": 7401,
+          "image_background": "https://media.rawg.io/media/games/057/057d16809624e4907142a6922a7e7f41.jpg"
+        },
+        {
+          "id": 1350,
+          "name": "crazy",
+          "slug": "crazy",
+          "language": "eng",
+          "games_count": 1677,
+          "image_background": "https://media.rawg.io/media/screenshots/61b/61b4a3d3c9016bb65d37b8a0f98061dc.jpg"
+        },
+        {
+          "id": 5413,
+          "name": "circle",
+          "slug": "circle",
+          "language": "eng",
+          "games_count": 396,
+          "image_background": "https://media.rawg.io/media/screenshots/98b/98b4f8a88e8f92578d1ff3b2321a90b7.jpg"
+        },
+        {
+          "id": 2939,
+          "name": "aim",
+          "slug": "aim",
+          "language": "eng",
+          "games_count": 352,
+          "image_background": "https://media.rawg.io/media/screenshots/fee/fee6755e48c5f02e412cc70cef225de0.jpg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 2,
+        "name": "Everyone 10+",
+        "slug": "everyone-10-plus",
+        "name_en": "Everyone 10+",
+        "name_ru": "С 10 лет"
+      },
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/be6/be61f4940f0f918f285d0dc35a727b19_0vlqqUF.jpg"
+        },
+        {
+          "id": 3128634,
+          "image": "https://media.rawg.io/media/screenshots/fbb/fbbab0d646be45a8d6b7cab819adf022_Q4UgKui.jpg"
+        },
+        {
+          "id": 3128635,
+          "image": "https://media.rawg.io/media/screenshots/91c/91c90345037b565269016b8bfbc0f361_doOaiJs.jpg"
+        },
+        {
+          "id": 3128636,
+          "image": "https://media.rawg.io/media/screenshots/41d/41d711e45249308ee141f14b7197f142_f0UrKWy.jpg"
+        },
+        {
+          "id": 3128637,
+          "image": "https://media.rawg.io/media/screenshots/a3c/a3c773171cd57b96c161414062d8a1df.jpg"
+        },
+        {
+          "id": 3128638,
+          "image": "https://media.rawg.io/media/screenshots/be6/be61f4940f0f918f285d0dc35a727b19_0vlqqUF.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 40,
+          "name": "Casual",
+          "slug": "casual"
+        },
+        {
+          "id": 28,
+          "name": "Board Games",
+          "slug": "board-games"
+        }
+      ]
+    },
+    {
+      "slug": "crazy-aa-pin-balls-shooting",
+      "name": "Crazy aa Pin Balls Shooting",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 3,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 4,
+            "name": "App Store",
+            "slug": "apple-appstore"
+          }
+        }
+      ],
+      "released": "2018-03-05",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/54a/54a3f1a63be5e79ab4b67b911a93f3fb.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 17,
+      "updated": "2019-10-22T14:17:12",
+      "id": 239039,
+      "score": "-0.95027065",
+      "clip": null,
+      "tags": [],
+      "esrb_rating": {
+        "id": 2,
+        "name": "Everyone 10+",
+        "slug": "everyone-10-plus",
+        "name_en": "Everyone 10+",
+        "name_ru": "С 10 лет"
+      },
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/54a/54a3f1a63be5e79ab4b67b911a93f3fb.jpg"
+        },
+        {
+          "id": 1619680,
+          "image": "https://media.rawg.io/media/screenshots/d2b/d2b5e439d78aac31f4c1a271d6883dd3.jpg"
+        },
+        {
+          "id": 1619681,
+          "image": "https://media.rawg.io/media/screenshots/39c/39cdeaa12a6a453e299651d006cecdd5_wdvNGk2.jpg"
+        },
+        {
+          "id": 1619682,
+          "image": "https://media.rawg.io/media/screenshots/269/26947ef7f55d6ba76aa16e7190b5d79d.jpg"
+        },
+        {
+          "id": 1619683,
+          "image": "https://media.rawg.io/media/screenshots/6c7/6c73ff81ea4fd5d0604eae27e86eb701.jpg"
+        },
+        {
+          "id": 1619684,
+          "image": "https://media.rawg.io/media/screenshots/54a/54a3f1a63be5e79ab4b67b911a93f3fb.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 1,
+          "name": "Racing",
+          "slug": "racing"
+        },
+        {
+          "id": 3,
+          "name": "Adventure",
+          "slug": "adventure"
+        },
+        {
+          "id": 15,
+          "name": "Sports",
+          "slug": "sports"
+        }
+      ]
+    },
+    {
+      "slug": "the-amazing-firedogs-aa-edition",
+      "name": "The Amazing Firedogs! (AA Edition)",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 9,
+            "name": "itch.io",
+            "slug": "itch"
+          }
+        }
+      ],
+      "released": "2017-11-12",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/37c/37c3006fa2e8ea8e715c8a405e064aed.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 61,
+      "updated": "2019-01-09T12:41:06",
+      "id": 181119,
+      "score": "-1.3096828",
+      "clip": null,
+      "tags": [
+        {
+          "id": 45,
+          "name": "2D",
+          "slug": "2d",
+          "language": "eng",
+          "games_count": 85731,
+          "image_background": "https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg"
+        },
+        {
+          "id": 72,
+          "name": "Local Multiplayer",
+          "slug": "local-multiplayer",
+          "language": "eng",
+          "games_count": 8774,
+          "image_background": "https://media.rawg.io/media/games/388/388935d851846f8ec747fffc7c765800.jpg"
+        },
+        {
+          "id": 653,
+          "name": "Dogs",
+          "slug": "dogs",
+          "language": "eng",
+          "games_count": 1428,
+          "image_background": "https://media.rawg.io/media/screenshots/656/656606259f688be56912357c81d0ebd9.jpg"
+        },
+        {
+          "id": 666,
+          "name": "cooking",
+          "slug": "cooking",
+          "language": "eng",
+          "games_count": 694,
+          "image_background": "https://media.rawg.io/media/screenshots/1d6/1d6cb76269d4759f11497547a5018d5a_vNGM6O5.jpg"
+        },
+        {
+          "id": 739,
+          "name": "Game Jam",
+          "slug": "game-jam",
+          "language": "eng",
+          "games_count": 4787,
+          "image_background": "https://media.rawg.io/media/screenshots/c7e/c7eec4c72dc20b786210e487b7c8a8dd.jpg"
+        },
+        {
+          "id": 1897,
+          "name": "fire",
+          "slug": "fire",
+          "language": "eng",
+          "games_count": 4354,
+          "image_background": "https://media.rawg.io/media/screenshots/e9e/e9e8c75c028188ba6ed8d6b95ff19c17_LhGq5iM.jpg"
+        },
+        {
+          "id": 3697,
+          "name": "xbox-360-controllers",
+          "slug": "xbox-360-controllers",
+          "language": "eng",
+          "games_count": 2,
+          "image_background": "https://media.rawg.io/media/screenshots/e2d/e2dd194d5be8f1c1cd942a6565796a49.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/37c/37c3006fa2e8ea8e715c8a405e064aed.jpg"
+        },
+        {
+          "id": 1257240,
+          "image": "https://media.rawg.io/media/screenshots/76e/76e538948d5e2317e9579069096d28fe.jpg"
+        },
+        {
+          "id": 1257241,
+          "image": "https://media.rawg.io/media/screenshots/282/282320431203133cf3867fd7fc62cb2c.jpg"
+        },
+        {
+          "id": 1257242,
+          "image": "https://media.rawg.io/media/screenshots/37c/37c3006fa2e8ea8e715c8a405e064aed.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 83,
+          "name": "Platformer",
+          "slug": "platformer"
+        }
+      ]
+    },
+    {
+      "slug": "crazy-aa-coloring-ball-shooter",
+      "name": "Crazy aa Coloring Ball Shooter",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 3,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 4,
+            "name": "App Store",
+            "slug": "apple-appstore"
+          }
+        }
+      ],
+      "released": "2018-02-26",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/89b/89bb1f02a3a152749bd485f4892676ef_BXEp1w3.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 11,
+      "updated": "2019-10-22T14:17:13",
+      "id": 239051,
+      "score": "-2.134283",
+      "clip": null,
+      "tags": [
+        {
+          "id": 604,
+          "name": "simple",
+          "slug": "simple",
+          "language": "eng",
+          "games_count": 5400,
+          "image_background": "https://media.rawg.io/media/screenshots/f2e/f2e59a790f186dbeb0a0085ef4558385.jpg"
+        },
+        {
+          "id": 1994,
+          "name": "tap",
+          "slug": "tap",
+          "language": "eng",
+          "games_count": 6825,
+          "image_background": "https://media.rawg.io/media/screenshots/9eb/9ebdddcc5332d4c03f2a6bf1d4f72792.jpg"
+        },
+        {
+          "id": 3189,
+          "name": "color",
+          "slug": "color",
+          "language": "eng",
+          "games_count": 4951,
+          "image_background": "https://media.rawg.io/media/screenshots/51d/51dd944987e4efb74b4bfd9cf0999d40.jpg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 2,
+        "name": "Everyone 10+",
+        "slug": "everyone-10-plus",
+        "name_en": "Everyone 10+",
+        "name_ru": "С 10 лет"
+      },
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/89b/89bb1f02a3a152749bd485f4892676ef_BXEp1w3.jpg"
+        },
+        {
+          "id": 1619740,
+          "image": "https://media.rawg.io/media/screenshots/8bb/8bbd2c0fe65afe36d46ebf048468b21c.jpg"
+        },
+        {
+          "id": 1619741,
+          "image": "https://media.rawg.io/media/screenshots/307/3070439841309c2a2c6036941782ce91.jpg"
+        },
+        {
+          "id": 1619742,
+          "image": "https://media.rawg.io/media/screenshots/89b/89bb1f02a3a152749bd485f4892676ef_BXEp1w3.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "genres": [
+        {
+          "id": 1,
+          "name": "Racing",
+          "slug": "racing"
+        },
+        {
+          "id": 15,
+          "name": "Sports",
+          "slug": "sports"
+        }
+      ]
+    },
+    {
+      "slug": "aa-african-safari-video-slots-play-free-vegas-styl",
+      "name": "“AA African Safari Video Slots: Play Free Vegas Style Cosmic wildlife Casino MonsuMachine",
+      "playtime": 0,
+      "platforms": [
+        {
+          "platform": {
+            "id": 3,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "stores": [
+        {
+          "store": {
+            "id": 4,
+            "name": "App Store",
+            "slug": "apple-appstore"
+          }
+        }
+      ],
+      "released": "2015-03-05",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/screenshots/c01/c01074cee767462a04a6c20166606a6e.jpg",
+      "rating": 0,
+      "rating_top": 0,
+      "ratings": [],
+      "ratings_count": 0,
+      "reviews_text_count": 0,
+      "added": 0,
+      "added_by_status": null,
+      "metacritic": null,
+      "suggestions_count": 81,
+      "updated": "2019-10-22T14:03:19",
+      "id": 266313,
+      "score": "-2.3412542",
+      "clip": null,
+      "tags": [
+        {
+          "id": 1329,
+          "name": "phone",
+          "slug": "phone",
+          "language": "eng",
+          "games_count": 2716,
+          "image_background": "https://media.rawg.io/media/screenshots/e14/e143ad42ced586b2ee3ff0537d078d52.jpg"
+        },
+        {
+          "id": 1530,
+          "name": "animation",
+          "slug": "animation",
+          "language": "eng",
+          "games_count": 2097,
+          "image_background": "https://media.rawg.io/media/games/7a3/7a3f0042e23365c3bb4d4cf300e92d00.jpg"
+        },
+        {
+          "id": 2269,
+          "name": "animal",
+          "slug": "animal",
+          "language": "eng",
+          "games_count": 1011,
+          "image_background": "https://media.rawg.io/media/screenshots/891/89192085eb5725400039a95fc8bdcc0c.jpg"
+        },
+        {
+          "id": 2590,
+          "name": "fun",
+          "slug": "fun",
+          "language": "eng",
+          "games_count": 23498,
+          "image_background": "https://media.rawg.io/media/screenshots/41d/41d61629335da0c673894fa4f113a6bb.jpg"
+        },
+        {
+          "id": 3719,
+          "name": "casino",
+          "slug": "casino",
+          "language": "eng",
+          "games_count": 1091,
+          "image_background": "https://media.rawg.io/media/screenshots/077/077d73563fe77c0cf19cc4a293c35e7c.jpg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 3,
+        "name": "Teen",
+        "slug": "teen",
+        "name_en": "Teen",
+        "name_ru": "С 13 лет"
+      },
+      "user_game": null,
+      "reviews_count": 0,
+      "community_rating": 0,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "short_screenshots": [
+        {
+          "id": -1,
+          "image": "https://media.rawg.io/media/screenshots/c01/c01074cee767462a04a6c20166606a6e.jpg"
+        },
+        {
+          "id": 1738242,
+          "image": "https://media.rawg.io/media/screenshots/1dd/1dd781ed469b5f10df572ddb80b6d927.jpg"
+        },
+        {
+          "id": 1738243,
+          "image": "https://media.rawg.io/media/screenshots/180/180cc8ce67ddf95a206957ae9876b0a7_2gMXMbV.jpg"
+        },
+        {
+          "id": 1738244,
+          "image": "https://media.rawg.io/media/screenshots/a88/a88ef3fbc2c20e973e64bd80a10e41bb.jpg"
+        },
+        {
+          "id": 1738245,
+          "image": "https://media.rawg.io/media/screenshots/943/943afac063218919c3c9340f09c9890b.jpg"
+        },
+        {
+          "id": 1738246,
+          "image": "https://media.rawg.io/media/screenshots/c01/c01074cee767462a04a6c20166606a6e.jpg"
+        }
+      ],
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "iOS",
+            "slug": "ios"
+          }
+        }
+      ],
+      "genres": []
+    }
+  ],
+  "user_platforms": false
+}

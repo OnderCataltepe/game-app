@@ -73,3 +73,9 @@ Game Videos
 https://api.rawg.io/api/games/3498/movies?key=5ef35efd15444b7bb1cc23247e9f3297
 https://api.rawg.io/api/games/{d}/movies?key={apiKey}
 */
+
+/**
+ Search Results
+ https://api.rawg.io/api/games?key=5ef35efd15444b7bb1cc23247e9f3297&search=gta 
+ https://api.rawg.io/api/games?key={apiKey}&search={searchQuery}
+ */

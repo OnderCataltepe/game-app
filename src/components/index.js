@@ -13,7 +13,11 @@ import {
   CategoryCard,
   GameCard,
   LinkButton,
-  ErrorMessage
+  ErrorMessage,
+  Paginate,
+  SearchForm,
+  ModalContainer,
+  SearchModal
 } from './ui';
 export {
   Header,
@@ -29,5 +33,9 @@ export {
   CategoryCard,
   GameCard,
   LinkButton,
-  ErrorMessage
+  ErrorMessage,
+  Paginate,
+  SearchForm,
+  ModalContainer,
+  SearchModal
 };

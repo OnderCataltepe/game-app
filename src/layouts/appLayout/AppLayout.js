@@ -1,5 +1,6 @@
 import { Header, Footer } from 'components';
 import { Outlet } from 'react-router-dom';
+import { ScrollRestoration } from 'react-router-dom';
 
 const AppLayout = () => {
   return (
@@ -9,6 +10,7 @@ const AppLayout = () => {
         <Outlet />
       </main>
       <Footer />
+      <ScrollRestoration />
     </div>
   );
 };

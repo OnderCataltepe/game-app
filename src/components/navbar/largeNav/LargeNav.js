@@ -16,7 +16,7 @@ const LargeNav = ({ data }) => {
                   key={index}
                   className="m-1 border border-dashed border-red-700 py-2 px-4 text-base"
                 >
-                  <MyNavLink text={subItem.title} path={`${item.path}/${subItem.path}`} />
+                  <MyNavLink text={subItem.title} path={`${item.path}/${subItem.path}?page=1`} />
                 </li>
               ))}
             </ul>
