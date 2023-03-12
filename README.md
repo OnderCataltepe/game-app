@@ -12,8 +12,8 @@ npm install
 
 Get Api Key from RAWG API
 
-<sup> REACT\*APP_BASE_URL= \*\** <sup>
-<sup> REACT*APP_API_KEY= \*\*\* <sup>
+<sup> REACT_APP_BASE_URL= \*\*\* <sup>
+<sup> REACT_APP_API_KEY= \*\*\* <sup>
 
 ### Run Locally
 
