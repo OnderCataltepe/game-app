@@ -2,9 +2,11 @@ import { IconButton } from 'components';
 import { AiOutlineSearch } from 'react-icons/ai';
 import { useRef } from 'react';
 import { useNavigate, createSearchParams } from 'react-router-dom';
+
 const SearchForm = ({ closeHandler }) => {
   const searchRef = useRef(null);
   const navigate = useNavigate();
+
   const submitHandler = (e) => {
     e.preventDefault();
     if (searchRef.current.value.trim().length > 0) {

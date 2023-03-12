@@ -1,7 +1,6 @@
 import { useLocation, useParams } from 'react-router-dom';
 import { useGetMovieDetailsQuery } from 'redux/apiSlice';
 import { PageTitle, Loading, ErrorMessage, DetailsCard } from 'components';
-import parse from 'html-react-parser';
 
 const GameDetails = () => {
   const { gameId } = useParams();
