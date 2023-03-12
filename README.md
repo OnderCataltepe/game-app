@@ -10,10 +10,10 @@ cd video-games
 npm install
 ```
 
-Get Api Key from RAWG API
+Get api key from RAWG API. .env.local:
 
-<sup> REACT_APP_BASE_URL= \*\*\* <sup>
-<sup> REACT_APP_API_KEY= \*\*\* <sup>
+- <sup> REACT_APP_BASE_URL= \*\*\* <sup>
+- <sup> REACT_APP_API_KEY= \*\*\* <sup>
 
 ### Run Locally
 
