@@ -1,15 +1,12 @@
+import * as React from 'react';
+
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import {
-  Home,
-  ErrorPage,
-  Genres,
-  Platforms,
-  GenreList,
-  PlatformList,
-  SearchResults,
-  GameDetails
-} from 'pages';
+import { Home, ErrorPage, Genres, Platforms, SearchResults } from 'pages';
 import { AppLayout } from 'layouts';
+import { Loading } from 'components';
+const GameDetails = React.lazy(() => import('./pages/game/GameDetails'));
+const GenreList = React.lazy(() => import('./pages/genres/GenreList'));
+const PlatformList = React.lazy(() => import('./pages/platform/PlatformList'));
 
 const routes = [
   {
@@ -26,8 +23,11 @@ const routes = [
       },
       {
         path: '/genres/:genreId',
-        element: <GenreList />,
-        errorElement: <ErrorPage />
+        element: (
+          <React.Suspense fallback={<Loading />}>
+            <GenreList />
+          </React.Suspense>
+        )
       },
       {
         path: '/platforms',
@@ -35,7 +35,11 @@ const routes = [
       },
       {
         path: '/platforms/:platformId',
-        element: <PlatformList />
+        element: (
+          <React.Suspense fallback={<Loading />}>
+            <PlatformList />
+          </React.Suspense>
+        )
       },
       {
         path: '/search',
@@ -43,7 +47,11 @@ const routes = [
       },
       {
         path: '/games/:gameId',
-        element: <GameDetails />
+        element: (
+          <React.Suspense fallback={<Loading />}>
+            <GameDetails />
+          </React.Suspense>
+        )
       },
       {
         path: '*',
