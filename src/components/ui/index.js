@@ -12,6 +12,9 @@ import Paginate from './paginate/Paginate';
 import SearchForm from './forms/SearchForm';
 import ModalContainer from './modals/ModalContainer';
 import SearchModal from './modals/SearchModal';
+import DetailsCard from './cards/DetailsCard';
+import IconTextBtn from './buttons/iconTextBtn/IconTextBtn';
+import TrailerModal from './modals/TrailerModal';
 export {
   MyNavLink,
   ThemeButton,
@@ -26,5 +29,8 @@ export {
   Paginate,
   SearchForm,
   ModalContainer,
-  SearchModal
+  SearchModal,
+  DetailsCard,
+  IconTextBtn,
+  TrailerModal
 };

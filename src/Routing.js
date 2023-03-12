@@ -1,5 +1,14 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import { Home, ErrorPage, Genres, Platforms, GenreList, PlatformList, SearchResults } from 'pages';
+import {
+  Home,
+  ErrorPage,
+  Genres,
+  Platforms,
+  GenreList,
+  PlatformList,
+  SearchResults,
+  GameDetails
+} from 'pages';
 import { AppLayout } from 'layouts';
 
 const routes = [
@@ -31,6 +40,10 @@ const routes = [
       {
         path: '/search',
         element: <SearchResults />
+      },
+      {
+        path: '/games/:gameId',
+        element: <GameDetails />
       },
       {
         path: '*',

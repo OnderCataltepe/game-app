@@ -5,4 +5,5 @@ import Platforms from './platform/Platforms';
 import GenreList from './genres/GenreList';
 import PlatformList from './platform/PlatformList';
 import SearchResults from './searchResults/SearchResults';
-export { Home, ErrorPage, Genres, GenreList, Platforms, PlatformList, SearchResults };
+import GameDetails from './game/GameDetails';
+export { Home, ErrorPage, Genres, GenreList, Platforms, PlatformList, SearchResults, GameDetails };

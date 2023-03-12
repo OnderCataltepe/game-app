@@ -34,6 +34,20 @@ export const gameApi = createApi({
         method: 'GET',
         params: { page: page, search: searchQ, key: API_KEY }
       })
+    }),
+    getMovieDetails: builder.query({
+      query: ({ id }) => ({
+        url: `games/${id}`,
+        method: 'GET',
+        params: { key: API_KEY }
+      })
+    }),
+    getTrailers: builder.query({
+      query: ({ id }) => ({
+        url: `games/${id}/movies`,
+        method: 'GET',
+        params: { key: API_KEY }
+      })
     })
   })
 });
@@ -43,5 +57,7 @@ export const {
   useGetGenreListQuery,
   useGetPlatformListQuery,
   useGetDetailsQuery,
-  useGetSearchQuery
+  useGetSearchQuery,
+  useGetMovieDetailsQuery,
+  useGetTrailersQuery
 } = gameApi;

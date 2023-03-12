@@ -17,7 +17,10 @@ import {
   Paginate,
   SearchForm,
   ModalContainer,
-  SearchModal
+  SearchModal,
+  DetailsCard,
+  IconTextBtn,
+  TrailerModal
 } from './ui';
 export {
   Header,
@@ -37,5 +40,8 @@ export {
   Paginate,
   SearchForm,
   ModalContainer,
-  SearchModal
+  SearchModal,
+  DetailsCard,
+  IconTextBtn,
+  TrailerModal
 };
